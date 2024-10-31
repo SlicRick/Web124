@@ -1,5 +1,10 @@
 //Richard McFarlin 10/30/2024//
-
+//adapted from Javascript30//
+/* changed queryselector method to detElementById
+const secondHand = document.querySelector('.second-hand');
+  const minsHand = document.querySelector('.min-hand');
+  const hourHand = document.querySelector('.hour-hand');
+*/
 const secondHand = document.getElementById('second-hand');
   const minsHand = document.getElementById('min-hand');
   const hourHand = document.getElementById('hour-hand');
