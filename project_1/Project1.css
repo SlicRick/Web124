@@ -48,6 +48,25 @@
       background: #00fbf5; /*Changed the color of the clock hand */
       position: absolute;
       top: 50%;
+      transform-origin: 100%;
+      transform: rotate(90deg);
+      transition: all 0.05s;
+      transition-timing-function: cubric-bezier(0, 0, 0.2, 1); /* apply traditional second hand movement*/
+      
     }
+
+  #hour-hand {
+    background: #00fbf5; /*change color of hand*/
+    height: 20px;
+  }
+#minute-hand {
+  background:#00fbf5; /*change color of hand*/
+  height: 10px;
+}
+
+#second-hand{
+  background: #00fbf5; /*change color of hand*/
+  height: 5px;
+}
 
   </style>
