@@ -2,6 +2,8 @@
 <html lang="en">
 /*Richard McFarlin 10/30/2024*/
 /*adapted from javascript30 js& css clock*/
+/*new css function: rotate, translateY, cubric-bezier
+new Css properties: transform, transform-origin, transition-timing-function */
   <style>
     html {
       background: #0c1a23 url(https://i.pinimg.com/736x/3d/b5/6b/3db56bd773becbff209faf616507ba72.jpg);
