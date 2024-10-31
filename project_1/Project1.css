@@ -4,7 +4,7 @@
 /*adapted from javascript30 js& css clock*/
   <style>
     html {
-      background: #0c1a23 url(https://unsplash.it/1500/1000?image=881&blur=5);
+      background: #0c1a23;
       background-size: cover;
       font-family: 'helvetica neue';
       text-align: center;
