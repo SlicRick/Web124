@@ -15,7 +15,6 @@ new Css properties: transform, transform-origin, transition-timing-function */
 
     body {
       margin: 0;
-      background: #0b1922;
       font-size: 2rem;
       display: flex;
       flex: 1;
